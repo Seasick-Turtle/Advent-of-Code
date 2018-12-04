@@ -23,7 +23,7 @@ const frequencies = [
   21, -10, 8, 31, 12, 117267
 ];
 
-function detectDuplicate(frequencies) {
+const detectDuplicate = frequencies => {
   // create array to hold frequencies 
   let frequencyValues = []
   let currentFrequency = 0;
