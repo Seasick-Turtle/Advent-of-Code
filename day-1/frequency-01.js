@@ -25,17 +25,12 @@ const frequencies = [
 
 
 // create function to read input 
-function addFrequencies(frequencies) {
-  // set initial frequency to 0
-  let baseFrequency = 0;
-   console.time();
-  for (let count = 0; count < frequencies.length; count++) {
-    // add values to base frequency
-    baseFrequency += frequencies[count];
-  }
-console.timeEnd();
+const addFrequencies = frequencies => {
+  // reduce input array
+  const resultFrequency = (acc, currentValue) => acc + currentValue;
+  
   // show value
-  console.log(baseFrequency);
+  console.log(frequencies.reduce(resultFrequency));
 }
 
 addFrequencies(frequencies);
