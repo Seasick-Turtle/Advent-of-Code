@@ -41,7 +41,7 @@ const data = [
   'xdmgpjkprnszlcaqwfichvtneo', 'xhmgyjkpruszlbaqwficgvtnet', 'xdmgyjkpruswlbaqwfichvtqer', 'ddmgyjkprcszlbaqwfichqtneo', 'xdmgyjkpruhhlbaqwpichvtneo', 'xdmgyjkeraszlbaqwfichvtnso', 
   'nomgyjkpruszlbaqwficavxneo', 'xdmgyjkprdszlbaqwfobhvtneo', 'xdmgyjkprgszlbaqwfichvtdao', 'xomgyjspruswlbaqwfichvtneo', 'xdzgyjkpruszlbaqwficwvpneo', 'admgejkpruszlbaqwfimhvtneo', 
   'xdtgyjkpruszlmaqwfiqhvtneo', 'xdmgymkprusqlbaqwtichvtneo', 'xdmgyjkpluszlbaqwfidhvtnea', 'ztmgyjjpruszlbaqwfichvtneo'
-]
+];
 
 /*
 For example, if you see the following box IDs:
